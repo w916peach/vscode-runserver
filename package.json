@@ -1,9 +1,13 @@
 {
 	"name": "runserver",
 	"displayName": "运行静态资源服务器",
-	"description": "a test",
-	"publisher": "916peach",
-	"version": "0.1.1",
+	"description": "可以以任意目录作为静态资源根目录，启动服务器，并响应其静态资源",
+	"publisher": "w916peach",
+	"version": "0.1.2",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/w916peach/vscode-runserver.git"
+	},
 	"engines": {
 		"vscode": "^1.44.0"
 	},
