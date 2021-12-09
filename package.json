@@ -1,5 +1,5 @@
 {
-	"name": "runserver",
+	"name": "runserverless",
 	"displayName": "serverless",
 	"description": "可以以任意目录作为静态资源根目录，把该目录中的静态资源以http服务的形式响应出去,并且可以编写本地云函数",
 	"publisher": "w916peach",
